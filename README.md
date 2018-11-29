@@ -1,4 +1,4 @@
-# Magento-2-Custom-Checkout-Fields
+# Magento 2 Custom Checkout Fields Extension
 Magento 2 custom checkout fields extension by FME enables merchants to collect extra details from clients at the checkout step.
 
 Checkout page is arguably the most important page when it comes to buying. It becomes even more crucial after a prospect adds an item to the cart.  For an online merchant, nothing is more painful than losing a customer at the checkout page.
