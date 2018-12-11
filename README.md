@@ -135,5 +135,3 @@ Magento 2 custom checkout fields extension allows you to narrow down the display
 <a href="https://www.fmeextensions.com/magento-2-google-maps-store-locator.html">Free Magento 2 Store Locator</a>
 
 <a href="https://www.fmeextensions.com/cost-based-percentage-pricing-extension-magento-2.html">Magento 2 Cost Based Pricing</a>
-
-<a href="https://www.fmeextensions.com/cost-based-percentage-pricing-extension-magento-2.html">Magento 2 Cost Based Pricing</a>
