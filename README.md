@@ -132,6 +132,8 @@ Magento 2 custom checkout fields extension allows you to narrow down the display
 
 <a href="https://www.fmeextensions.com/request-callback-hide-price-extension-magento-2.html">Magento 2 Hide Price</a>
 
-<a href="https://www.fmeextensions.com/xml-html-sitemap-seo-extension-magento-2.html">Magento 2 Sitemap</a>
+<a href="https://www.fmeextensions.com/magento-2-google-maps-store-locator.html">Free Magento 2 Store Locator</a>
+
+<a href="https://www.fmeextensions.com/cost-based-percentage-pricing-extension-magento-2.html">Magento 2 Cost Based Pricing</a>
 
 <a href="https://www.fmeextensions.com/cost-based-percentage-pricing-extension-magento-2.html">Magento 2 Cost Based Pricing</a>
