@@ -6,7 +6,7 @@ Checkout page is arguably the most important page when it comes to buying. It be
 The design of a Magento 2 checkout page varies based on a business model and customer’s expectations. Default Magento 2 does not allow adding 
 additional fields to checkout page which is necessary if you want to gather more details from customers. 
 
-<a href="https://www.fmeextensions.com/custom-checkout-fields-order-attributes-extension-magento-2.html">Magento 2 custom checkout fields</a> extension 
+<a href="https://www.fmeextensions.com/custom-checkout-fields-extension-magento-2.html">Magento 2 extension for custom checkout fields</a>
 helps you do this and allows you to add additional customizable fields to any checkout step. 
 It supports 8 types of custom fields including text field, text area, checkbox, radio button, Yes/No options, multi select, drop down date etc. 
 
