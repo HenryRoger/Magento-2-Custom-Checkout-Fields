@@ -104,7 +104,7 @@ Magento 2 custom checkout fields extension allows you to narrow down the display
 
 <a href="https://www.fmeextensions.com/restrict-store-access-customer-groups-magento-2.html">Magento 2 Restrict by Customer Groups</a>
 
-<a href="https://www.fmeextensions.com/store-pickup-google-maps-extension-magento-2.html">Magento 2 Store Pickup</a>
+<a href="https://www.fmeextensions.com/store-pickup-google-maps-extension-magento-2.html">Magento 2 Pickup in Store</a>
 
 <a href="https://www.fmeextensions.com/magento-geo-ip-default-store-magento-2.html">Magento 2 Store Switcher</a>
 
@@ -130,7 +130,7 @@ Magento 2 custom checkout fields extension allows you to narrow down the display
 
 <a href="https://www.fmeextensions.com/custom-registration-fields-attributes-extension-magento-2.html">Magento 2 Customer Attributes</a>
 
-<a href="https://www.fmeextensions.com/request-callback-hide-price-extension-magento-2.html">Magento 2 Hide Price</a>
+<a href="https://www.fmeextensions.com/request-callback-hide-price-extension-magento-2.html">Magento 2 Call for Price</a>
 
 <a href="https://www.fmeextensions.com/magento-2-google-maps-store-locator.html">Free Magento 2 Store Locator</a>
 
