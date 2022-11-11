@@ -90,7 +90,7 @@ Magento 2 custom checkout fields extension allows you to narrow down the display
 
 <a href="https://www.fmeextensions.com/faq-ask-product-questions-magento-2.html">Magento 2 Product Questions</a>
 
-<a href="https://www.fmeextensions.com/seo-friendly-blog-articles-magento-2.html">Magento 2 Blog</a>
+<a href="https://www.fmeextensions.com/seo-friendly-blog-articles-magento-2.html">Magento 2 Blog Extension</a>
 
 <a href="https://www.fmeextensions.com/product-image-zoom-magento-2.html">Magento 2 Product Image Zoom</a>
 
@@ -102,9 +102,9 @@ Magento 2 custom checkout fields extension allows you to narrow down the display
 
 <a href="https://www.fmeextensions.com/google-maps-store-locator-extension-magento-2.html">Magento 2 Store Locator</a>
 
-<a href="https://www.fmeextensions.com/restrict-store-access-customer-groups-magento-2.html">Magento 2 Restrict by Customer Groups</a>
+<a href="https://www.fmeextensions.com/restrict-store-access-customer-groups-magento-2.html">Magento 2 Restrict Products by Customer Groups</a>
 
-<a href="https://www.fmeextensions.com/store-pickup-google-maps-extension-magento-2.html">Magento 2 Pickup in Store</a>
+<a href="https://www.fmeextensions.com/store-pickup-google-maps-extension-magento-2.html">Magento 2 Store Pickup</a>
 
 <a href="https://www.fmeextensions.com/magento-geo-ip-default-store-magento-2.html">Magento 2 Store Switcher</a>
 
@@ -135,3 +135,21 @@ Magento 2 custom checkout fields extension allows you to narrow down the display
 <a href="https://www.fmeextensions.com/magento-2-google-maps-store-locator.html">Free Magento 2 Store Locator</a>
 
 <a href="https://www.fmeextensions.com/cost-based-percentage-pricing-extension-magento-2.html">Magento 2 Cost Based Pricing</a>
+
+<a href="https://www.fmeextensions.com/magento-2-order-import-export-extension.html">Magento 2 Order Import Export</a>
+
+<a href="https://www.fmeextensions.com/magento-2-order-export-import.html">Magento 2 Order Export</a>
+
+<a href="https://www.fmeextensions.com/magento-2-otp-login.html">Magento 2 OTP Login</a>
+
+<a href="https://www.fmeextensions.com/magento-2-webp-images-extension.html">Magento 2 WebP Images</a>
+
+<a href="https://www.fmeextensions.com/magento-2-layered-navigation.html">Magento 2 Multi Select Layered Navigation</a>
+
+<a href="https://www.fmeextensions.com/magento-2-product-sorting.html">Magento 2 Improved Sorting</a>
+
+<a href="https://www.fmeextensions.com/magento-2-preselect-configurable-product.html">Magento 2 Preselect Configurable Product</a>
+
+<a href="https://www.fmeextensions.com/hide-price-add-to-cart-magento-2-extension.html">Magento 2 Hide Price</a>
+
+<a href="https://www.fmeextensions.com/force-login-magento-2-extension.html">Magento 2 Force Login</a>
