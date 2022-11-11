@@ -153,3 +153,7 @@ Magento 2 custom checkout fields extension allows you to narrow down the display
 <a href="https://www.fmeextensions.com/hide-price-add-to-cart-magento-2-extension.html">Magento 2 Hide Price</a>
 
 <a href="https://www.fmeextensions.com/force-login-magento-2-extension.html">Magento 2 Force Login</a>
+
+<a href="https://www.fmeextensions.com/seo-extension-for-magento-2.html">Magento 2 SEO Extension</a>
+
+<a href="https://www.fmeextensions.com/hreflang-tag-implementer-extension-magento-2.html">Magento 2 Hreflang Tags Implementer</a>
