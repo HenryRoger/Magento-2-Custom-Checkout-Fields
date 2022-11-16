@@ -157,3 +157,18 @@ Magento 2 custom checkout fields extension allows you to narrow down the display
 <a href="https://www.fmeextensions.com/seo-extension-for-magento-2.html">Magento 2 SEO Extension</a>
 
 <a href="https://www.fmeextensions.com/hreflang-tag-implementer-extension-magento-2.html">Magento 2 Hreflang Tags Implementer</a>
+
+<a href="https://www.fmeextensions.com/magento-2-convert-guest-to-customer.html">Magento 2 Convert Guest to Customer</a>
+
+<a href="https://www.fmeextensions.com/magento-2-import-export-url-rewrites.html">Magento 2 Import Export URL Rewrites</a>
+
+<a href="https://www.fmeextensions.com/magento-2-lookbook-extension.html">Magento 2 Lookbook Extension</a>
+
+<a href="https://www.fmeextensions.com/magento-2-distance-based-shipping.html">Magento 2 Distance Based Shipping</a>
+
+<a href="https://www.fmeextensions.com/magento-2-checkout-success-page-extension-custom-thank-you-page.html">Magento 2 Thank You Page</a>
+
+<a href="https://www.fmeextensions.com/magento-2-edit-order.html">Magento 2 Edit Order</a>
+
+<a href="https://www.fmeextensions.com/magento-2-mini-cart-extension.html">Magento 2 Mini Cart</a>
+
